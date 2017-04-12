@@ -28,4 +28,4 @@ This app was tested using [HTML](https://validator.w3.org/) and [CSS](https://ji
 
 ## License
 
-[MIT License](https://en.wikipedia.org/wiki/MIT_License).
+[MIT](https://en.wikipedia.org/wiki/MIT_License).
