@@ -2,13 +2,13 @@
 
 ## Introduction
 
-This is the first project of the Team Treehouse Techdegree. The complete instruction of the project can be seen in [project_instructions.pdf](), and the initial code and assets can be seen in the `iniitial_assets` folder.
+This is the first project of the Team Treehouse Techdegree. The complete instruction of the project can be seen in [project_instructions.pdf](https://github.com/wahidyankf/treehouse-frontend-01-personal-profile-page/blob/master/project_instructions.pdf), and the initial code and assets can be seen in the `initial_assets` folder.
 
 ## Usage
 
 ### Demo pages
 
-You can see the demo page [here]().
+You can see the demo page [here](https://wahidyankf.github.io/treehouse-frontend-01-personal-profile-page/).
 
 ### Result
 
